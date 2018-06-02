@@ -1,5 +1,5 @@
 # Extended Kalman Filter Project
-Self-Driving Car Engineer Nanodegree Program
+
 
 The objective of this project is to apply Extended Kalman Filter approach for Lidar and Radar sensor data fusion to estimate vehicle position. It has been applied in C++  
 
